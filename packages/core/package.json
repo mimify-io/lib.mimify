@@ -8,10 +8,10 @@
     "javascript"
   ],
   "license": "MIT",
-  "homepage": "https://github.com/kirilenko/lib.mimify#readme",
+  "homepage": "https://github.com/mimify-io/lib.mimify#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kirilenko/lib.mimify.git",
+    "url": "git+https://github.com/mimify-io/lib.mimify.git",
     "directory": "packages/core"
   },
   "publishConfig": {
